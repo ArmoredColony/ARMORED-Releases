@@ -1,4 +1,4 @@
-# ARMORED Manifests
+# ARMORED Updates
 
 Public, read-only **TOML manifests** for my Blender add-ons.  
 Each add-on has its own folder with a `manifest.toml` that declares the **latest version** and brief **changes**.  
