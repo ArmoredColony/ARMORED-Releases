@@ -1,7 +1,3 @@
 [latest]
 version = "1.0.0"
-changes = [
-  "Testing a medium sized change, not as big as the large one, but still desriptive",
-  "Testing Initial Release with a really long string that doesnt mean anything, but could represent a potential change in the future; also let me add a few more words to his.",
-  "Testing a really short change.",
-]
+
