@@ -1,6 +1,6 @@
 # PIXIE PIVOT CHANGELOG
 
 ## 1.0.0
-26/August/2025
+27/August/2025
 
 ### INITIAL RELEASE
