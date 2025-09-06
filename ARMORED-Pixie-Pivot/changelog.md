@@ -1,5 +1,11 @@
 # PIXIE PIVOT CHANGELOG
 
+## 1.1.1
+06/September/2025
+
+### FIXED
+AttributeError → `view3d_utils` was not being imported correctly from `bpy_extras`.
+
 ## 1.1.0
 03/September/2025
 
