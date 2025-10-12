@@ -11,7 +11,7 @@
 
 ### ADDED
 - Pressing 'DD' now resets the pivot to the previous non-cursor settings instead of always reseting to GLOBAL Orientation and MEDIAN_POINT pivot point.
-- Behavior Preferences to specify how the pivot get's reset.
+- Behavior Preference **Double Tap Resets To** with pivot reset options.
 
 ## 1.1.1
 06/September/2025
