@@ -1,10 +1,23 @@
 # PIXIE PIVOT CHANGELOG
 
+## 1.1.3
+11/October/2025
+
+### FIXED
+- Error when enabling `anchor_to_selection` and no selection was available.
+
+## 1.1.2
+06/October/2025
+
+### ADDED
+- Pressing 'DD' now resets the pivot to the previous non-cursor settings instead of always reseting to GLOBAL Orientation and MEDIAN_POINT pivot point.
+- Behavior Preferences to specify how the pivot get's reset.
+
 ## 1.1.1
 06/September/2025
 
 ### FIXED
-AttributeError → `view3d_utils` was not being imported correctly from `bpy_extras`.
+- AttributeError → `view3d_utils` was not being imported correctly from `bpy_extras`.
 
 ## 1.1.0
 03/September/2025
