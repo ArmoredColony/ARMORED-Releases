@@ -6,18 +6,23 @@
 ### FIXED
 - Error when enabling `anchor_to_selection` and no selection was available.
 
+
 ## 1.1.2
 06/October/2025
 
 ### ADDED
-- Pressing 'DD' now resets the pivot to the previous non-cursor settings instead of always reseting to GLOBAL Orientation and MEDIAN_POINT pivot point.
 - Behavior Preference **Double Tap Resets To** with pivot reset options.
+
+### CHANGED
+- Pressing 'DD' now resets the pivot to the previous non-cursor settings instead of always reseting to GLOBAL Orientation and MEDIAN_POINT pivot point.
+
 
 ## 1.1.1
 06/September/2025
 
 ### FIXED
 - AttributeError → `view3d_utils` was not being imported correctly from `bpy_extras`.
+
 
 ## 1.1.0
 03/September/2025
