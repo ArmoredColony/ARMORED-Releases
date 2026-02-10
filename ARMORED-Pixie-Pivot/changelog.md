@@ -1,5 +1,12 @@
 # PIXIE PIVOT CHANGELOG
 
+## 1.1.4
+09/Febuary/2026
+
+### CHANGED
+- Setting the Origin no longer forces GLOBAL Orientation and MEDIAN_POINT Pivot, instead it keeps your previous settings.
+
+
 ## 1.1.3
 11/October/2025
 
