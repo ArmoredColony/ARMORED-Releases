@@ -1,5 +1,11 @@
 # PIXIE PIVOT CHANGELOG
 
+## 1.2.1
+12/March/2026
+
+### Fixed
+- AttributeError `build_element_styles` when resetting certain Prop Groups.
+
 ## 1.2.0
 12/March/2026
 
