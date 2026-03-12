@@ -1,5 +1,22 @@
 # PIXIE PIVOT CHANGELOG
 
+## 1.2.0
+12/March/2026
+
+### Added
+- Support for targeting mesh elements while in Object Mode.
+- Snap/align between multiple objects (still limited to mesh objects).
+- Lock Cursor Location → Prevents the 3D cursor from changing location while still allowing it to rotate/align in place.
+- Bounding Box Calculation preferences: Accurate (default) vs Fast.
+
+### Changed
+- Converted the add-on into an extension.
+
+Removed
+- Anchor to Selection → Too much dev time; may re-add if the API exposes transform_orientation and transform_pivot_point results. Replaced with simpler **Lock Cursor Location**.
+- Release Checking → It was pretty useless anyway (no updating and version notifications were super hidden).
+
+
 ## 1.1.4
 09/Febuary/2026
 
