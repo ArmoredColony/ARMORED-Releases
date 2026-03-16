@@ -1,5 +1,11 @@
 # PIXIE PIVOT CHANGELOG
 
+## 1.2.2
+16/March/2026
+
+### Fixed
+- ValueError when using edge normals and `linked_faces` was different than 2.
+
 ## 1.2.1
 12/March/2026
 
