@@ -24,7 +24,7 @@
 ### Changed
 - Converted the add-on into an extension.
 
-Removed
+### Removed
 - Anchor to Selection → Too much dev time; may re-add if the API exposes transform_orientation and transform_pivot_point results. Replaced with simpler **Lock Cursor Location**.
 - Release Checking → It was pretty useless anyway (no updating and version notifications were super hidden).
 
