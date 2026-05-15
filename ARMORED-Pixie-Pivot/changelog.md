@@ -10,6 +10,7 @@
 ### Fixed
  - Scene raycast hitting invisible objects in Local View.
  - Crash when raycasting non-mesh objects (e.g. curves with radius).
+ - Crash when scaling the gizmo with [+] or [-] (modal hotkeys).
 
 ### Removed
 - Lock Cursor Location (replaced with Align Only).
