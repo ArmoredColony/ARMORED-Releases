@@ -1,5 +1,19 @@
 # PIXIE PIVOT CHANGELOG
 
+## 1.2.3
+15/May/2026
+
+### Added
+- Option to restore the 3D cursor to its previous location when double-tapping the activation key.
+- Align Only toggle → Use the 3D cursor orientation but not it's location (preserves the current Transform Pivot Point mode).
+
+### Fixed
+ - Scene raycast hitting invisible objects in Local View.
+ - Crash when raycasting non-mesh objects (e.g. curves with radius).
+
+### Removed
+- Lock Cursor Location (replaced with Align Only).
+
 ## 1.2.2
 16/March/2026
 
