@@ -4,7 +4,7 @@
 15/May/2026
 
 ### Added
-- Option to restore the 3D cursor to its previous location when double-tapping the activation key.
+- Behavior Option to restore the 3D cursor to its previous location when double-tapping the activation key.
 - Align Only toggle → Use the 3D cursor orientation but not it's location (preserves the current Transform Pivot Point mode).
 
 ### Fixed
