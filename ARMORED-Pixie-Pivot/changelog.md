@@ -4,11 +4,13 @@
 15/May/2026
 
 ### Added
-- Behavior Option to restore the 3D cursor to its previous location when double-tapping the activation key.
 - Align Only toggle → Use the 3D cursor orientation but not it's location (preserves the current Transform Pivot Point mode).
+- Behavior Option to restore the 3D cursor to its previous location when double-tapping the activation key.
+- Behavior Option to disable multi-object scene raycasting in Edit Mode for faster snapping.
 
 ### Fixed
  - Scene raycast hitting invisible objects in Local View.
+ - Edit Mode slowdown when hovering outside mesh geometry, caused by not caching the center calculation.
  - Crash when raycasting non-mesh objects (e.g. curves with radius).
  - Crash when scaling the gizmo with [+] or [-] (modal hotkeys).
 
