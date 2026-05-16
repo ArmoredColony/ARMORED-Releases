@@ -6,6 +6,7 @@
 ### Added
 - Behavior Option to restore the 3D cursor to its previous location when double-tapping the activation key.
 - Align Only toggle → Use the 3D cursor orientation but not it's location (preserves the current Transform Pivot Point mode).
+- Behavior Option to restore Transform Orientation and Pivot Point to the previous non-cursor state when double-tapping the activation key.
 
 ### Fixed
  - Scene raycast hitting invisible objects in Local View.
