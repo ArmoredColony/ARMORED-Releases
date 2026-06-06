@@ -14,7 +14,7 @@
 ### Changed
 - Setting the Origin mode will apply to all selected objects.
 - Main Panel styling for better readibility.
-- The Reset Pivot key <kbd>T</kbd> can now be set independently from the activation key and appears in the Main Panel.
+- The Reset Pivot key <kbd>D</kbd> can now be set independently from the activation key and appears in the Main Panel.
 
 ### Fixed
  - Scene raycast hitting invisible objects in Local View.
