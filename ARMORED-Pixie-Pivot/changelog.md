@@ -1,5 +1,12 @@
 # PIXIE PIVOT CHANGELOG
 
+1.3.2
+06/Aug/2026
+
+### Fixed
+- Crash when targeting certain geometry types that were not being converted to meshes correctly (e.g. hair systems).
+- Setting a rotated Origin would apply the target location but silently fail to apply the rotation.
+
 ## 1.3.1
 11/Jun/2026
 
